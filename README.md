@@ -1,6 +1,6 @@
 
-![Bunny - Kotlin Developer and Game Developer](banner.png)
 
+![Bunny Developer Banner](Cyber%20Bunny%20Developer%20Workspace.png)
 # 👋 Hi, I'm Bunny!
 
 💻 Kotlin Developer | 🎮 Game Developer
