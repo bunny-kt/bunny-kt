@@ -68,3 +68,17 @@ I'm starting small, learning by doing, and improving with every project.
 [GitHub Profile](https://github.com/bunny-kt) · [Learn Kotlin](https://kotlinlang.org/)
 
 </div>
+### 🎮 Shadow Quest — Dungeon Escape
+
+My first Kotlin adventure game!
+
+- 🏰 Explore dungeon rooms
+- 🪙 Collect coins and treasures
+- 🧪 Discover potions and avoid traps
+- ❤️ Manage your health and escape the dungeon
+
+**[View Game Repository](https://github.com/bunny-kt/shadow-quest-kotlin-game)**
+
+---
+
+`> Keep learning. Keep building. 🖤`
