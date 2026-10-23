@@ -1,3 +1,19 @@
+
+![Bunny - Kotlin Developer and Game Developer](banner.png)
+
+# 👋 Hi, I'm Bunny!
+
+💻 Kotlin Developer | 🎮 Game Developer
+
+Welcome to my GitHub profile!
+
+- 🗝️ Building Shadow Quest — Dungeon Escape
+- 💻 Learning programming and game development
+- 🚀 Exploring new technologies
+
+## 🎮 My Project
+
+[![Shadow Quest](https://img.shields.io/badge/Play-Shadow%20Quest-black?style=for-the-badge&logo=github)](https://github.com/bunny-kt/shadow-quest-kotlin-game)
 # 🖤 BUNNY-KT
 
 <div align="center">
